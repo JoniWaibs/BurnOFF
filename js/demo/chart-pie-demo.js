@@ -179,7 +179,7 @@ var myPieChart = new Chart(ctx3, {
     labels: ["Horas trabajadas" , "Horas restantes" ],
     datasets: [{
       data: [100],
-      backgroundColor: [ '#5a5c69'],
+      backgroundColor: [ '#1cc88a'],
       hoverBackgroundColor: ['#5a5c69'],
       hoverBorderColor: "rgba(234, 236, 244, 1)",
     }],
